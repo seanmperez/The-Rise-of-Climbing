@@ -14,7 +14,7 @@ Luckily, kaggle has a great dataset of users from the world's largest rock climb
 
 ## Results
 
-![alt text](https://github.com/seanmperez/The-Rise-of-Climbing/figures/Tableau_Dashboard.png)
+![Alt text](https://github.com/seanmperez/The-Rise-of-Climbing/blob/master/figures/Tableau_Dashboard.png)
 
 
 Check out my [Dashboard](https://public.tableau.com/profile/sean.perez#!/vizhome/ClimbingGrowth/Dashboard1) or the jupyter notebook to view in depth results.
