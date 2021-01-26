@@ -13,7 +13,8 @@ Luckily, kaggle has a great dataset of users from the world's largest rock climb
 #### 2. *Who is the average climber?*
 
 ## Results
-<iframe src="https://public.tableau.com/views/ClimbingGrowth/Dashboard1"></iframe>
+
+![alt text](https://github.com/seanmperez/The-Rise-of-Climbing/figures/Tableau_Dashboard.png)
 
 
 Check out my [Dashboard](https://public.tableau.com/profile/sean.perez#!/vizhome/ClimbingGrowth/Dashboard1) or the jupyter notebook to view in depth results.
@@ -21,12 +22,13 @@ Check out my [Dashboard](https://public.tableau.com/profile/sean.perez#!/vizhome
 
 ## Insights
 
-1. The vast majority of users on 8a.nu (86%) are male.
-2. Females are, on average, 27 lbs lighter and 5 inches short than males.
+1. The majority of users (86%) are male.
+2. Women are 27 lbs lighter and 5 inches short than men (on average).
 3. Males tend to climb a few grades above females in both bouldering and routes (possibly due to user bias).
 4. Most astonishingly, we can see the average user on 8a.nu is quite strong! The average max boulder climbed was V6-V8/9, and the average max route climbed was 5.12a-c, both of which are considered at the advance to expert level!
 
 Checkout https://www.guidedolomiti.com/en/rock-climbing-grades/ for more details.
+
 
 ## Future Plans
 There are quite a few improvements that can be gleaned from the modern climber that weren't done in this simple analysis. A few more metrics that would be great to calculate in the 8a.nu dataset include:
@@ -38,5 +40,7 @@ More importantly, our analysis showed that 8a.nu user aren't representative of m
 
 
 Contributers:
-Sean Perez (Data analytics, concept)
-Jane Choi (Graphic design/UX, concept)
+
+**Sean Perez** (Data analytics, concept)
+
+**Jane Choi** (Graphic design/UX, concept)
