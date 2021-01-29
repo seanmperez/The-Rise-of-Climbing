@@ -3,7 +3,7 @@
 ## Introduction
 Climbing has transformed from an off-the-beaten-path lifestyle, to a competitive sport being featured in the 2021 olympics. Unlike a lot of other popular sports such as basketball and football, data is sparse when it comes to climbing!
 
-## The Data¶
+## The Data
 Luckily, kaggle has a great dataset of users from the world's largest rock climbing logbook, 8a.nu. The dataset was collected on 9/13/2017 and can be found on kaggle https://www.kaggle.com/dcohen21/8anu-climbing-logbook. The data is held in a sqlite database.
 
 ## Questions
